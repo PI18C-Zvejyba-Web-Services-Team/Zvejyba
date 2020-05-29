@@ -1,0 +1,5 @@
+This program allow users from all around the world, to share, lookup, discuss and trade different items and products. 
+Users can upload their catches from a succesful fishing trip, share photos, add description about their fishing experience in particular spot or place.
+People also, can sell, trade or buy fishing equipment for everyday fishing.
+They can also seek advices from fellow fishermen, read about fishing in detail and add their experiences.
+
