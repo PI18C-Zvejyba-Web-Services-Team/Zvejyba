@@ -1,4 +1,4 @@
-# ŽVEJYBA APP
+<p align="center"># ŽVEJYBA APP
 
 ## README
 
