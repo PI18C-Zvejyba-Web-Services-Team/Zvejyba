@@ -1,6 +1,6 @@
-**#ŽVEJYBA APP**
+**ŽVEJYBA APP**
 
-**##README**
+**README**
 
 This is our Teams Final Accessment task for Vilnius Kolegija University of Applied Sciences Web Services Lecture.
 
