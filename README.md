@@ -28,5 +28,4 @@ This service is built using Java NetBeans 8.2, Glasfish 5, MySQL workbench. Serv
 ### NOTICE
 
 Dear, @Developers and @Users
-This Program is still work in progress, so feel free to point out any mistakes and give your Advice.
-
+This Program is still work in progress, so feel free to point out any mistakes and give your advice.
