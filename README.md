@@ -11,9 +11,12 @@ This service is built using Java NetBeans 8.2, Glasfish 5, MySQL workbench. Serv
 
 ### CONTACT
 
-If you have problems, questions feel free to contacting us via DiscordApp users:
-**defrostbuff#9553, maladec#8658, krk#5783, California#3924**
-Or Via GitHub team **https://github.com/PI18C-Zvejyba-Web-Services-Team**
+* If you have problems, questions feel free to contacting us via DiscordApp users:
+1. defrostbuff#9553
+2. maladec#8658
+3. krk#5783 
+4. California#3924
+* Or Via GitHub team **https://github.com/PI18C-Zvejyba-Web-Services-Team**
 
 ### TEAM MEMBERS
 
@@ -25,5 +28,5 @@ Or Via GitHub team **https://github.com/PI18C-Zvejyba-Web-Services-Team**
 ### NOTICE
 
 Dear, @Developers and @Users
-This Program is still work in progress, so feel free to point out any mistakes and give your Advices.
+This Program is still work in progress, so feel free to point out any mistakes and give your Advice.
 
