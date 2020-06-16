@@ -7,7 +7,7 @@ We are students in Vilnius Kolegija. University of Applied Sciences. This is our
 This program allow users from all around the world, to share, lookup, discuss and trade different items and products. 
 Users can upload their catches from a succesful fishing trip, share photos, add description about their fishing experience in particular spot or place.
 
-This service is built using Java NetBeans 8.2, Glassfish 5, MySQL workbench. Service is Tested using Swager Editor, Postman, Cucumber. It also includes BDD End to End Tests.
+This service is built using Java NetBeans 8.2, Glassfish 5, MySQL workbench. Service is Tested using Swager Editor, Postman.
 
 ### CONTACTS
 
