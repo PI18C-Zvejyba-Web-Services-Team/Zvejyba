@@ -1,6 +1,6 @@
-#ŽVEJYBA APP
+**ŽVEJYBA APP#**
 
-**README**
+**README##**
 
 This is our Teams Final Accessment task for Vilnius Kolegija University of Applied Sciences Web Services Lecture.
 
@@ -9,7 +9,7 @@ Users can upload their catches from a succesful fishing trip, share photos, add 
 
 This service is built using Java NetBeans 8.2, Glasfish 5, MySQL workbench. Service is Tested using Swager Editor, Postman. It also includes BDD End to End Tests.
 
-**CONTACT**
+**CONTACT##**
 
 If you have problems, questions feel free to contacting us via DiscordApp users:
 **defrostbuff#9553, maladec#8658, krk#5783, California#3924**
