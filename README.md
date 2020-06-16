@@ -1,4 +1,4 @@
-**ŽVEJYBA APP**
+#ŽVEJYBA APP
 
 **README**
 
